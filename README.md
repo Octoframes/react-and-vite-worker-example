@@ -1,0 +1,1 @@
+# react-and-vite-worker-example
