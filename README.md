@@ -1,1 +1,1 @@
-# react-and-vite-worker-example
+# worker example
